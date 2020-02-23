@@ -6,5 +6,3 @@ echo this is 2
 else
 echo nothing
 fi
-
-
